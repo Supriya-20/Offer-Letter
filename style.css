@@ -13,7 +13,7 @@ h1 {
 .container {
   width: 100vw;
   height: 100vh;
-  background-color: #176B87;
+  background-color: aliceblue;
   display: flex;
   justify-content: center;
   align-items: center;
